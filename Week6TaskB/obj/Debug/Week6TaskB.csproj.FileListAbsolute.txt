@@ -1,0 +1,32 @@
+C:\Users\amm4r\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.csproj.AssemblyReference.cache
+C:\Users\amm4r\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.Form1.resources
+C:\Users\amm4r\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.Properties.Resources.resources
+C:\Users\amm4r\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.csproj.GenerateResource.cache
+C:\Users\amm4r\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.csproj.CoreCompileInputs.cache
+C:\Users\amm4r\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\bin\Debug\Week6TaskB.exe.config
+C:\Users\amm4r\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\bin\Debug\Week6TaskB.exe
+C:\Users\amm4r\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\bin\Debug\Week6TaskB.pdb
+C:\Users\amm4r\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.exe
+C:\Users\amm4r\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.pdb
+C:\Users\Ammar\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\bin\Debug\Week6TaskB.exe.config
+C:\Users\Ammar\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\bin\Debug\Week6TaskB.exe
+C:\Users\Ammar\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\bin\Debug\Week6TaskB.pdb
+C:\Users\Ammar\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.Form1.resources
+C:\Users\Ammar\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.Properties.Resources.resources
+C:\Users\Ammar\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.csproj.GenerateResource.cache
+C:\Users\Ammar\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.csproj.CoreCompileInputs.cache
+C:\Users\Ammar\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.exe
+C:\Users\Ammar\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.pdb
+C:\Users\Ammar\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.csproj.AssemblyReference.cache
+C:\Users\Ammar\OneDrive - MMU\Documents\Algorithms and Data Structures\Assessed Exercises\Assessed Exercise week 6\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ammar\Desktop\Jet2\Week6TaskB\Week6TaskB\bin\Debug\Week6TaskB.exe.config
+C:\Users\Ammar\Desktop\Jet2\Week6TaskB\Week6TaskB\bin\Debug\Week6TaskB.exe
+C:\Users\Ammar\Desktop\Jet2\Week6TaskB\Week6TaskB\bin\Debug\Week6TaskB.pdb
+C:\Users\Ammar\Desktop\Jet2\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.csproj.AssemblyReference.cache
+C:\Users\Ammar\Desktop\Jet2\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ammar\Desktop\Jet2\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.Form1.resources
+C:\Users\Ammar\Desktop\Jet2\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.Properties.Resources.resources
+C:\Users\Ammar\Desktop\Jet2\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.csproj.GenerateResource.cache
+C:\Users\Ammar\Desktop\Jet2\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.csproj.CoreCompileInputs.cache
+C:\Users\Ammar\Desktop\Jet2\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.exe
+C:\Users\Ammar\Desktop\Jet2\Week6TaskB\Week6TaskB\obj\Debug\Week6TaskB.pdb
